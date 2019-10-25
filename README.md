@@ -1,4 +1,4 @@
-# Simple_Projects
+# Simply Projects
 # Project Name
   Projects I have made to get more practice with python
 ## General info
