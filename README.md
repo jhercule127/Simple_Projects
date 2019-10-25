@@ -1,7 +1,7 @@
 # Simply Projects
   Projects I have made to get more practice with python
 ## General info
-  Showcase and advance my skills in python using simple projects and then advancing into more projects
+  Showcase and advance my skills in python using simple projects and then advancing into more projects. Currently, the programs are run through the command line.
 ## Technologies
 * Python 3
 * Python Libraries
