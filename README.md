@@ -11,4 +11,4 @@
 Project is: In Progress and will upload more in the future.
 
 ## Contact
-Created by @Jonathan Hercules, feel free to contact me!
+Created by [@Jonathan Hercules](https://jhercule127.github.io/Personal-Website/), feel free to contact me!
